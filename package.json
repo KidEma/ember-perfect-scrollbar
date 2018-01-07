@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "broccoli-merge-trees": "^2.0.0",
-    "broccoli-static-compiler": "^0.2.2",
+    "broccoli-funnel": "1.0.1",
     "ember-cli-babel": "^6.3.0",
     "perfect-scrollbar": "^0.8.0"
   },
